@@ -1,0 +1,16 @@
+{
+  "name": "secureeval",
+  "version": "1.0.0",
+  "description": "A wrapper making it simple to securely eval javascript. Useful when wanting to execute user generated code.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "author": "",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
